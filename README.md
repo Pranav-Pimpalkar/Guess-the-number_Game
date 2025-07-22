@@ -31,6 +31,7 @@ If the guess is correct, print: "Congratulations!" and exit the loop.
 If the user runs out of chances, display the correct number and a message: "Better Luck Next Time!"
 
 **Output**
+
 <img width="771" height="440" alt="image" src="https://github.com/user-attachments/assets/a06d593d-8ee1-4898-aecc-3d026a26b77a" />
 
 <img width="724" height="373" alt="image" src="https://github.com/user-attachments/assets/4cab887e-40ab-4959-ae08-1a46fc67bbd1" />
